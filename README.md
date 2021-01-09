@@ -17,7 +17,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/90sRehem" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-rehem-7101171a5/" target="_blank">
     <img alt="Made by Jonathan Rehem" src="https://img.shields.io/badge/made%20by-Jonathan_Rehem-informational">
   </a>
   <a href="https://github.com/90sRehem" target="_blank" >
