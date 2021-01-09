@@ -85,5 +85,5 @@ Para executar o projeto, você irá precisar ter o Node e o NPM ou Yarn instalad
 Instale todas as dependencias utilizando o comando `yarn`, abra uma nova aba do terminal na pasta do projeto, e execute `yarn json-server server.json -p 3333` para rodar o servidor json usado como API. Depois, abra outra aba do terminal e execute `yarn start` para abrir a página web.
 
 ---
+Made with :heart: by <a href="https://www.linkedin.com/in/jonathan-rehem-7101171a5/" target="blank">Jonathan Rehem</a>.
 ###### Developed on GoStack Bootcamp from [RocketSeat](https://rocketseat.com.br) :rocket:.
-Made with :heart: by [Jonathan Rehem](https://github.com/90sRehem)
