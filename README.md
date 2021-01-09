@@ -56,7 +56,7 @@
 
 * [Content (en-US)](#secao-en_us)
 * [Conteúdo (pt-BR)](#secao-pt_br)
-✔ [View challenge page](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud)
+* ✔ [View challenge page](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud)
 
 ## About the project <a id="secao-en_us"></a>
 
