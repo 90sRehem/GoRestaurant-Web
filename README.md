@@ -32,7 +32,7 @@
 
 </p>
 
-## :rocket: Desafio: GoRestaurant Web
+## :rocket: GoRestaurant Web
 
 <p align="center">
   <img src="uploads/GoRestaurantWeb_cover.png"/>
